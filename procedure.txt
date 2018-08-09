@@ -1,0 +1,15 @@
+npm install gulp-jasmine-browser
+npm install puppeteer
+npm install jasmine-core
+npm install update
+npm init -y
+npm install gulp -g
+npm install gulp --save-dev
+npm install browser-sync --save-dev
+npm install gulp-useref --save-dev
+npm install gulp-uglify --save-dev 
+npm install gulp-cssnano
+npm install gulp-imagemin --save-dev
+npm install gulp-cache --save-dev
+npm install del --save-dev
+npm install run-sequence --save-dev
